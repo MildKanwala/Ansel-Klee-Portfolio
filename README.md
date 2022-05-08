@@ -1,5 +1,6 @@
 # Ansel-Klee-Portfolio
 Learn to Create responsive Personal Webdesign Using HTML CSS &amp; JavaScript with Bedimcode
-https://www.youtube.com/watch?v=oy8dSsK57Ps
 
-Bedimcode: https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ 
+Bedimcode: https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ
+
+![This is an image](https://github.com/bedimcode/responsive-portfolio-website-Ansel/raw/main/preview.png)
